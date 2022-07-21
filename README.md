@@ -2,7 +2,7 @@
 - 🎓 I am a graduate of the University of Warmia and Mazury in Olsztyn
 - 🏠 I live in Cracow
 - 💼👷‍♀️ I am looking for a job with spatial data analysis
-- 🎲 I like board games and mountain hikes
+- 🎲⛰️ I like board games and mountain hikes
 
 # Programs and tools:
 
@@ -10,7 +10,9 @@
 - ArcMap <img alt="icon ArcMap" height="20" src="https://logodix.com/logo/501980.png">
 - ArcGIS Pro <img alt="icon ArcGIS Pro" height="20" src="https://www.napsgfoundation.org/wp-content/uploads/2022/02/ArcGIS-Pro.png">
 - Sketchup <img alt="icon css" height="20" src="https://seeklogo.com/images/S/sketchup-logo-5248E6166E-seeklogo.com.png">
-- Unity <img alt="icon css" height="20" src="https://cdn-icons-png.flaticon.com/512/5969/5969205.png">
+- Unity <img alt="icon css" height="20" src="https://cdn-icons-png.flaticon.com/512/5969/5969205.png"> 
+- SQL <img alt="icon css" height="20" src="https://cdn-icons.flaticon.com/png/512/5815/premium/5815886.png?token=exp=1658404589~hmac=be31bb14e9e9e645d4ce99a2a90a87c1">
+- C# <img alt="icon css" height="20" src="https://cdn-icons-png.flaticon.com/512/6132/6132221.png">
 - VR <img alt="icon css" height="20" src="https://cdn-icons.flaticon.com/png/512/3646/premium/3646958.png?token=exp=1658398758~hmac=7e019fb040aed02e0473dfc718247e03">
 - AR <img alt="icon css" height="20" src="https://cdn-icons-png.flaticon.com/512/2488/2488270.png">
 - Drone <img alt="icon css" height="20" src="https://cdn-icons.flaticon.com/png/512/3211/premium/3211185.png?token=exp=1658398613~hmac=39948053820c72d070e1005019eaa3b9">
