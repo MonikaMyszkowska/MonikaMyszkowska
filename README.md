@@ -11,7 +11,7 @@
 - ArcGIS Pro <img alt="icon ArcGIS Pro" height="20" src="https://www.napsgfoundation.org/wp-content/uploads/2022/02/ArcGIS-Pro.png">
 - Sketchup <img alt="icon css" height="20" src="https://seeklogo.com/images/S/sketchup-logo-5248E6166E-seeklogo.com.png">
 - Unity <img alt="icon css" height="20" src="https://cdn-icons-png.flaticon.com/512/5969/5969205.png"> 
-- SQL <img alt="icon css" height="20" src="https://cdn-icons.flaticon.com/png/512/5815/premium/5815886.png?token=exp=1658404589~hmac=be31bb14e9e9e645d4ce99a2a90a87c1">
+- SQL <img alt="icon css" height="20" src="https://cdn-icons.flaticon.com/png/512/4299/premium/4299956.png?token=exp=1659010501~hmac=7557f80625745bf6636982fd89787586">
 - C# <img alt="icon css" height="20" src="https://cdn-icons-png.flaticon.com/512/6132/6132221.png">
 - VR <img alt="icon css" height="20" src="https://cdn-icons.flaticon.com/png/512/3646/premium/3646958.png?token=exp=1658398758~hmac=7e019fb040aed02e0473dfc718247e03">
 - AR <img alt="icon css" height="20" src="https://cdn-icons-png.flaticon.com/512/2488/2488270.png">
