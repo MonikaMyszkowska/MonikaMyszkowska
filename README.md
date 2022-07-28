@@ -15,7 +15,7 @@
 - C# <img alt="icon css" height="20" src="https://cdn-icons-png.flaticon.com/512/6132/6132221.png">
 - VR <img alt="icon css" height="20" src="https://cdn-icons.flaticon.com/png/512/3646/premium/3646958.png?token=exp=1658398758~hmac=7e019fb040aed02e0473dfc718247e03">
 - AR <img alt="icon css" height="20" src="https://cdn-icons-png.flaticon.com/512/2488/2488270.png">
-- Drone <img alt="icon css" height="20" src="https://cdn-icons.flaticon.com/png/512/3211/premium/3211185.png?token=exp=1658398613~hmac=39948053820c72d070e1005019eaa3b9">
+- Drone <img alt="icon css" height="20" src="https://cdn-icons.flaticon.com/png/512/3211/premium/3211185.png?token=exp=1659010426~hmac=891019dd66982074635e9d98aeed0e3e">
 - Statistica <img alt="icon css" height="20" src="https://media-exp1.licdn.com/dms/image/C4D0BAQGcsa28UMrqMw/company-logo_400_400/0/1625164958045?e=1659571200&v=beta&t=2zn5mtPq1RpSmTPh21fv6WcRWVD9liMBYN1g1tF4YlE">
 - Microsoft Office <img alt="icon css" height="20" src="https://cdn-icons-png.flaticon.com/512/888/888867.png">
 
