@@ -14,7 +14,7 @@
 - SQL <img alt="icon css" height="20" src="https://cdn-icons.flaticon.com/png/512/4299/premium/4299956.png?token=exp=1661188181~hmac=b81bd4225ffecbde35108cbe7455088c">
 - C# <img alt="icon css" height="20" src="https://cdn-icons-png.flaticon.com/512/6132/6132221.png">
 - VR <img alt="icon css" height="20" src="https://www.svgrepo.com/show/378747/vr-ar.svg">
-- AR <img alt="icon css" height="20" src="https://cdn-icons.flaticon.com/png/512/3211/premium/3211212.png?token=exp=1661250910~hmac=1022da086f4a9652fbc3a6bb0dab78a6">
+- AR <img alt="icon css" height="20" src="https://cdn-icons-png.flaticon.com/512/3211/3211212.png">
 - Drone <img alt="icon css" height="20" src="https://www.svgrepo.com/show/96254/drone.svg">
 - Statistica <img alt="icon css" height="20" src="https://www.svgrepo.com/show/148930/stats.svg">
 - Microsoft Office <img alt="icon css" height="20" src="https://cdn-icons-png.flaticon.com/512/888/888867.png">
